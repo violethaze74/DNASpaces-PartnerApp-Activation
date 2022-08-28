@@ -17,7 +17,7 @@
     "uuid": "3.3.2",
     "atob": "2.1.2",
     "btoa": "1.2.1",
-    "body-parser": "1.18.3",
+    "body-parser": "1.20.0",
     "jsonwebtoken": "8.5.0",
     "file-system": "2.2.2",
     "https": "1.0.0",
